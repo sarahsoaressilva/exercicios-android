@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Registro De Mensagens</string>
+    <string name="txt_digite"> Digite suas compras </string>
+    <string name="lblRegistra"> Registra as compras </string>
+</resources>
