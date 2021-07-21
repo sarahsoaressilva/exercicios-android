@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BrincandoComInteiros</string>
+    <string name="lblgeracao">Geração do Número</string>
+    <string name="lbldigitacao">Digitação do Número</string>
+    <string name="edttransferehint">Digite um nº inteiro</string>
+    <string name="lblpropriedades">Propriedades do Número</string>
+    <string name="lbldivisores">Divisores do Número</string>
+    <string name="btngerar">Gerar Nº</string>
+    <string name="btntransferir">Transferir</string>
+    <string name="btnparidade">Paridade?</string>
+    <string name="btnprimo">Primo?</string>
+    <string name="btnlimpar">Limpar Tudo</string>
+
+</resources>
