@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConversorDeMedidas</string>
+    <string name="btnLimpa"> Limpar Campos </string>
+    <string name="btnConverte"> Converter </string>
+    <string name="nomes"> Feito por: Sarah Soares e Giovanna Santos </string>
+
+    <string-array name="opcoesConversao">
+        <item> Polegada - cm </item>
+        <item> cm - Polegada </item>
+        <item> Pés - Metros </item>
+        <item> Metros - Pés </item>
+        <item> Milha - Km </item>
+        <item> Km - Milha </item>
+        <item> Farenheit - Celsius </item>
+        <item> Celsius - Farenheit </item>
+        <item> Nós - Km/h </item>
+        <item> Km/h - Nós </item>
+    </string-array>
+</resources>
