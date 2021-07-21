@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">Aplicativo de Boas Vindas</string>
+    <string name="txt_rotulo"> Olá, pessoal! </string>
+    <string name="txt_btnMsg">Clique para obter mensagem</string>
+    <string name="txt_btnlimpa">Limpar Mensagem</string>
+</resources>
